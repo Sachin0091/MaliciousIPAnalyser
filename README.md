@@ -10,8 +10,8 @@ Create and activate a virtual environment:
 
 python3 -m venv venv
 source ./venv/bin/activate
-Install dependencies:
 
+Install dependencies:
 pip install flask requests python-whois
 
 🔑 API Key
@@ -40,4 +40,3 @@ Paste a list of IPs (one per line) and get:
 •	This tool is for educational and research purposes only.
 •	Do not use it for malicious purposes.
 
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/290ff739-26a7-4b29-a2c1-ab041a660086" />
